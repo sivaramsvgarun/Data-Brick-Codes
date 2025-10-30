@@ -4,3 +4,4 @@ def check_odd_even()
         print('its even')
     else:
         print('its odd')
+check_odd_even()
